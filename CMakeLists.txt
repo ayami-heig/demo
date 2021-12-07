@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(demo main.cpp)
 add_executable(vecter.cpp
                main.cpp
-               test.cpp)
+        )
